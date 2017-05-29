@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# package files
+**/serverless-s3-upload-*.tgz
