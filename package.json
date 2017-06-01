@@ -1,6 +1,6 @@
 {
   "name": "serverless-s3-upload",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Uploads files/folders to AWS S3 bucket.",
   "main": "lib/index.js",
   "scripts": {
